@@ -1,0 +1,55 @@
+Карты:
+	bet on poker => 888
+	blackjack => 886
+	Омаха => 889
+
+Бега
+	Bets on Horses => 779
+	Bets on Dogs => 778
+	3D Dogs => 
+
+Лотереи
+	Fortune18  => 1013
+	Keno Live  => 995
+	Turbo Keno => 
+	Keno => 999
+	Fortuna => 1003
+	MiniROulette => 
+	Bingo37 => 1009
+	Bingo37Ticket => 
+	BingoBoom Bingo  => 
+	BingoBoom Bingo2 => 
+	BingoBoom Keno => 
+	Sicbo => 
+	BingoBoom Lucky Line => 
+	Sicbo Australia => 
+	Fortuna => 1003
+
+Беттинг	
+	LBA.KenoBet => 999,
+        LBA.Bingo37Bet => 1009,
+        LBA.BlackJack => 886,
+        LBA.FortunaBet => 1003,
+        LBA.PokerBet => 888,
+        LBA.Dogs6Bet => 778,
+        LBA.Horses6Bet => 779,
+        LBA.Dogs8Bet => 780,
+        LBA.Horses8Bet => 781,
+        LBA.Fortuna18Bet => 1013,
+        LBA.FortunaBlack => 1017,
+        LBA.FortunaBetgg => 1018,
+        LBA.FortunaBlackBetgg => 1019,
+        LBA.KaboomBetgg => 1020,
+        LBA.Race3D.Greyhound => 77801,
+        LBA.Race3D.Trone => 77802,
+        LBA.Race3D.Velotrack => 78101,
+        LBA.Dogs6Bet.Iframe => 878,
+        LBA.Horses6Bet.Iframe => 879,
+        LBA.Dogs8Bet.Iframe => 880,
+        LBA.Horses8Bet.Iframe => 881,
+        LBA.Race3D.Greyhound.Iframe => 87801,
+        LBA.Race3D.Trone.Iframe => 87802,
+        LBA.Race3D.Velotrack.Iframe => 88101,
+        LBA.KenoBetgg => 1023,
+        LBA.FortunaBetgg.Fast => 101801,
+        LBA.TVRoulette => 1204,

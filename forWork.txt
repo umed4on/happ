@@ -1,0 +1,38 @@
+
+
+ключ с Лимы - 		scp root@192.168.10.199:/opt/lima/build/BACKSERVER/mc3_key.txt .
+конфиг с Лимы-		scp root@192.168.10.199:/opt/lima/build/BACKSERVER/config.ini.aes .
+логи с Veles-		$ scp -r veles@192.168.10.203:/home/veles/.veles/log .
+
+расшифровка конфига-	mobcas_crypto decode -i config.ini.aes -o config.ini
+шифровка конфига-		mobcas_crypto encode -i config.ini -o config.ini.aes
+
+
+
+Доступ в mobcas
+ssh support@riak2.betcloud.cc
+
+Доступ в боевое кафе
+ssh umed@cafe.betcloud.cc
+
+Бэкап nginx  кафе
+scp umed@cafe.betcloud.cc:/etc/nginx/nginx.conf /Users/dehkon/work/backup/cafe 
+
+Бэкап конфиг nginx
+scp support@riak2.betcloud.cc:/etc/nginx/nginx.conf /Users/dehkon/work/backup/mobcas
+
+
+Запись флешки
+Diskutil list
+sudo diskutil unmountDisk /dev/disk1
+cd Desktop/LimaVer/
+sudo dd if=lima_1805_LATINA_deb.raw of=/dev/disk1 bs=1048576
+
+
+nginx -t — протестировать конфигурационный файл и проверить его расположение.
+nginx -s reload — перезапустить конфигурационный файл без перезагрузки Nginx.
+
+Ключевые слова для поиска 
+/apuesta
+shift+g
+/uapi

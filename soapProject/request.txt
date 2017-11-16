@@ -1,0 +1,7 @@
+billing: https://cafeinbet.net/api/slots/
+
+request:
+{"trx_id":"trx_1023757887","tag":{"lines":0,"game_uuid":-1,"game_id":"","game":"none","denomination":1,"bet":0},"sign":"e232425b9f5a574ebb7e5b674d733bf7","session":"17497635|b179065629590d322a140eda8d57a7ab|01b0779feca08bc1c19faf2a5985d005","retry":0,"plus":0,"minus":0,"method":"do"}
+
+response:
+{"status":"OK","balance":4933.06,"currency":"FUN"}
